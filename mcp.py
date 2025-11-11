@@ -1,4 +1,4 @@
-from anyai import MCPClient
+from fastMCP import MCPClient
 import json
 
 def setup_mcp_connection():
